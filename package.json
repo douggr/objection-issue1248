@@ -1,0 +1,17 @@
+{
+  "name": "objection-issues-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "objection": "^1.6.3",
+    "pg": "^7.8.2",
+    "sqlite3": "^4.0.6"
+  }
+}
